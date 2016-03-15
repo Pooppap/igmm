@@ -1,5 +1,5 @@
 """
-Copyright (C) 2015 Baxter Eaves
+Copyright (C) 2016 Baxter Eaves
 License: Do what the fuck you want to public license (WTFPL) V2
 
 Infinite Gaussian Mixture Model
