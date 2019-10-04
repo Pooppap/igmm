@@ -11,7 +11,7 @@ import numpy as np
 
 from random import shuffle
 from scipy.special import gammaln
-from scipy.misc import logsumexp
+from scipy.special import logsumexp
 from math import log
 from math import pi
 
